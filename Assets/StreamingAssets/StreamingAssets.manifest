@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 576939143
+CRC: 2822631853
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,4 +7,5 @@ AssetBundleManifest:
       Dependencies: {}
     Info_1:
       Name: cosmeticsmod
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: testbundle

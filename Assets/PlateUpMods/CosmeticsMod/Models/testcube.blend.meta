@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 5b52274bff1ad4d4bbf15f7a35a84c6c
+guid: ec134c50919e91541afef3a0ea036316
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
   externalObjects: {}
   materials:
-    materialImportMode: 0
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -102,5 +102,5 @@ ModelImporter:
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
-  assetBundleName: testbundle
+  assetBundleName: 
   assetBundleVariant: 

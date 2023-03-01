@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1597165538
+CRC: 998760613
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 04c8e63d7c3ad38af01da3843ffc14d2
+    Hash: c0ab8e0ca6efda7f0afbc2a69f4879d4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 81fc4833398717ae320ec5bd08c661f4
+    Hash: 40127cf505985987cf939fcade3815af
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,8 +23,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/BundledAssets/testbundle/banana.blend
-- Assets/BundledAssets/testbundle/thing.blend
-Dependencies: []
+- Assets/PlateUpMods/CosmeticsMod/AssetBundle/banana.prefab
+- Assets/PlateUpMods/CosmeticsMod/AssetBundle/GooglyEyes.prefab
+- Assets/PlateUpMods/CosmeticsMod/AssetBundle/testcube.prefab
+Dependencies:
+- C:/Users/malac/PlateUp Asset Testing/Assets/StreamingAssets/testbundle

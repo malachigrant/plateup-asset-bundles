@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1597165538
+CRC: 262396375
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 04c8e63d7c3ad38af01da3843ffc14d2
+    Hash: ea9d0f80a42862c003002065208d92b2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 81fc4833398717ae320ec5bd08c661f4
+    Hash: 894816d889322a927dc9204a2d561235
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,16 +15,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/BundledAssets/testbundle/banana.blend
-- Assets/BundledAssets/testbundle/thing.blend
+- Assets/PlateUpMods/CosmeticsMod/AssetBundle/GooglyEyes.prefab
 Dependencies: []
