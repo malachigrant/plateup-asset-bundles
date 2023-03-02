@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 998760613
+CRC: 2617936460
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c0ab8e0ca6efda7f0afbc2a69f4879d4
+    Hash: 525cf202313feef002123c9b51194482
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40127cf505985987cf939fcade3815af
@@ -30,5 +30,6 @@ Assets:
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/banana.prefab
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/GooglyEyes.prefab
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/testcube.prefab
+- Assets/PlateUpMods/CosmeticsMod/AssetBundle/bongespobtest.prefab
 Dependencies:
 - C:/Users/malac/PlateUp Asset Testing/Assets/StreamingAssets/testbundle
