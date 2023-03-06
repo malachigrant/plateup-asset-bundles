@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3921597813
+CRC: 4240690701
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8d15bc32bfee7ce1bbdf08f7827f2f55
+    Hash: 340af586d225589ef7e496c194dcb23c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40127cf505985987cf939fcade3815af
@@ -35,4 +35,4 @@ Assets:
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/testcube.prefab
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/bongespobtest.prefab
 Dependencies:
-- C:/Users/malac/PlateUp Asset Testing/Assets/StreamingAssets/testbundle
+- C:/Users/malac/Documents/GitHub/plateup-asset-bundles/Assets/StreamingAssets/testbundle
