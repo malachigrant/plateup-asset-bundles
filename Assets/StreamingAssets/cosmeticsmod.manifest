@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 586599138
+CRC: 2640607996
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 29a665eeee81ccd53d6031ff7f5c9d84
+    Hash: 4590f4aa85cc1c855e19fe4cba460bbc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40127cf505985987cf939fcade3815af
@@ -30,6 +30,7 @@ Assets:
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/banana.prefab
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/mrkrabs.prefab
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/Patrick.prefab
+- Assets/PlateUpMods/CosmeticsMod/AssetBundle/plankton.prefab
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/krustyhattest.prefab
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/GooglyEyes.prefab
 - Assets/PlateUpMods/CosmeticsMod/AssetBundle/squidward.prefab
